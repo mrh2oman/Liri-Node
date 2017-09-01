@@ -7,13 +7,9 @@ var fs = require("fs");
 var colors = require("colors");
 
 var userPrompt = process.argv[2];
-// console.log(userPrompt);
 var userCommand = process.argv[3];
-// console.log(userCommand);
-// console.log(process.argv[2]);
 
 
-// function theStart(){
 	switch(userPrompt){
 
 		case "my-tweets":
@@ -33,10 +29,8 @@ var userCommand = process.argv[3];
 		break;
 
 	}
-// };
 function getMedia(){
 	console.log("Here come the tweeeeeeeeeeeeeets".black.bgWhite);
-  // console.log("-------------------------".yellow);
 
 	var client = new media({
 		consumer_key: keys.twitterKeys.consumer_key,
@@ -137,7 +131,3 @@ function getDo(){
 		}
 	});
 }
-
-
-
-// theStart();
