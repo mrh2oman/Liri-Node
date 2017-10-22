@@ -23,10 +23,10 @@ A Language Interpretation and Recognition Interface themed with a "Rick and Mort
     Clone this repo to your desktop and run NPM install to install all the dependencies
 
     Travel to the root directory and enter the following commands
-    `node morty.js my-tweets`
-    `node morty.js spotify-this "SONG"`
-    `node morty.js movie-this "MOVIE"`
-    `node morty.js do-what-it-says`
+    > node morty.js my-tweets
+    > node morty.js spotify-this "SONG"
+    > node morty.js movie-this "MOVIE"
+    > node morty.js do-what-it-says
 
 #Usage
 
