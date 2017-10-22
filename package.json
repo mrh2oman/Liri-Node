@@ -1,20 +1,19 @@
 {
-  "name": "liri",
-  "version": "1.0.0",
-  "description": "homework assignment for KU Coding Bootcamp",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "David Waterman",
-  "license": "ISC",
-  "dependencies": {
-    "chalk": "^2.1.0",
-    "colors": "^1.1.2",
-    "node-spotify-api": "^1.0.7",
-    "omdb": "^0.8.0",
-    "request": "^2.81.0",
-    "spotify": "^0.3.0",
-    "twitter": "^1.7.1"
-  }
+    "name": "liri",
+    "version": "1.0.0",
+    "description": "homework assignment for KU Coding Bootcamp",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "David Waterman",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.1.2",
+        "node-spotify-api": "^1.0.7",
+        "omdb": "^0.8.0",
+        "request": "^2.81.0",
+        "spotify": "^0.3.0",
+        "twitter": "^1.7.1"
+    }
 }
