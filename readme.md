@@ -13,7 +13,7 @@ A Language Interpretation and Recognition Interface themed with a "Rick and Mort
     ![Alt text](/images/spotify-this.png "View A Song")
 
    * Have it pull a movie summary for you
-    ![Alt text](/images/movie-this.png "View A Movie")
+    <!-- ![Alt text](/images/movie-this.png "View A Movie") -->
 
    * Have it pull a stored song from a text file
     ![Alt text](/images/do-what-it-says.png "Do it")
