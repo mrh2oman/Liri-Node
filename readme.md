@@ -20,19 +20,19 @@ A Language Interpretation and Recognition Interface themed with a "Rick and Mort
 
 #Setup
 
-    Clone this repo to your desktop and run NPM install to install all the dependencies
+1. Clone this repo to your desktop and run NPM install to install all the dependencies
 
-    Travel to the root directory and enter the following commands
-    > node morty.js my-tweets
-    > node morty.js spotify-this "SONG"
-    > node morty.js movie-this "MOVIE"
-    > node morty.js do-what-it-says
+2. Travel to the root directory and enter the following commands
+    * node morty.js my-tweets
+    * node morty.js spotify-this "SONG"
+    * node morty.js movie-this "MOVIE"
+    * node morty.js do-what-it-says
 
 #Usage
 
     After you have cloned this repo to your desktop and ran npm install you can start the program by traveling to the root directory running any of the following commands - 
 
-    `node morty.js my-tweets`
-    `node morty.js spotify-this "SONG"`
-    `node morty.js movie-this "MOVIE"`
-    `node morty.js do-what-it-says`
+* node morty.js my-tweets
+* node morty.js spotify-this "SONG"
+* node morty.js movie-this "MOVIE"
+* node morty.js do-what-it-says
